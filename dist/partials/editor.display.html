@@ -1,0 +1,22 @@
+<div class="editor-row">
+    <h5 class="section-heading">Angular Template</h5>
+
+    <div class="gf-form">
+        <div class="gf-form gf-form--grow">
+            <code-editor
+                    content="ctrl.panel.template"
+                    on-change="ctrl.updateTemplate()"
+                    data-mode="html"
+                    data-behaviours-enabled="true"
+                    data-snippets-enabled="false"
+                    data-max-lines="20"
+                    code-editor-focus="true">
+            </code-editor>
+        </div>
+    </div>
+
+    <div>
+        A dynamic angular template with the AJAX response bound to the variable:
+        <code ng-non-bindable>{{ response }}</code>
+    </div>
+</div>

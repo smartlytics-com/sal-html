@@ -1,0 +1,32 @@
+{
+  "type": "panel",
+  "name": "HTML",
+  "id": "sp-html",
+
+  "info": {
+    "description": "HTML panel for Grafana",
+    "author": {
+      "name": "ValD"
+    },
+    "keywords": ["panel", "html", "angular-template"],
+    "logos": {
+      "small": "img/html_panel_logo.svg",
+      "large": "img/html_panel_logo.svg"
+    },
+    "links": [
+      {"name": "Project site", "url": "https://github.com/segmentproxy/sp-html"},
+      {
+        "name": "MIT License",
+        "url": "https://github.com/segmentproxy/sp-html/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [{"name": "Options", "path": "img/screenshot-html-template.png"}],
+    "version": "0.0.1",
+    "updated": "2019-01-21"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": []
+  }
+}

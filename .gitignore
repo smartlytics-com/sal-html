@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+.tscache/
+.DS_store
+.idea
+/.idea
