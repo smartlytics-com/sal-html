@@ -10,8 +10,8 @@ System.register(["jquery", "lodash", "./css/html-panel.css!", "app/plugins/sdk"]
             d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
         };
     })();
-    var __moduleName = context_1 && context_1.id;
     var jquery_1, lodash_1, sdk_1, HtmlCtrl;
+    var __moduleName = context_1 && context_1.id;
     return {
         setters: [
             function (jquery_1_1) {

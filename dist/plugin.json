@@ -20,9 +20,9 @@
         "url": "https://github.com/segmentproxy/sp-html/blob/master/LICENSE"
       }
     ],
-    "screenshots": [{"name": "Options", "path": "img/screenshot-html-template.png"}],
+    "screenshots": [{"name": "Options", "path": "img/screenshot-ajax-options.png"}],
     "version": "0.0.1",
-    "updated": "2019-01-21"
+    "updated": "2019-02-04"
   },
 
   "dependencies": {
