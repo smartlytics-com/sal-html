@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "HTML",
-  "id": "sp-html",
+  "id": "sal-html",
 
   "info": {
     "description": "HTML panel for Grafana",
@@ -14,15 +14,15 @@
       "large": "img/html_panel_logo.svg"
     },
     "links": [
-      {"name": "Project site", "url": "https://github.com/segmentproxy/sp-html"},
+      {"name": "Project site", "url": "https://github.com/smartlytics-com/sal-html"},
       {
         "name": "MIT License",
-        "url": "https://github.com/segmentproxy/sp-html/blob/master/LICENSE"
+        "url": "https://github.com/smartlytics-com/sal-html/blob/master/LICENSE"
       }
     ],
     "screenshots": [{"name": "Options", "path": "img/screenshot-ajax-options.png"}],
     "version": "0.0.1",
-    "updated": "2019-02-04"
+    "updated": "2019-02-17"
   },
 
   "dependencies": {
