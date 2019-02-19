@@ -1,12 +1,13 @@
 {
   "type": "panel",
-  "name": "HTML",
+  "name": "SAL HTML",
   "id": "sal-html",
 
   "info": {
-    "description": "HTML panel for Grafana",
+    "description": "A simple HTML panel for Grafana",
     "author": {
-      "name": "ValD"
+      "name": "Smart Data & Analytics inc. (Smart Analytics adaption of a great AJAX panel by ryantxu)",
+      "url": "https://github.com/smartlytics-com"
     },
     "keywords": ["panel", "html", "angular-template"],
     "logos": {

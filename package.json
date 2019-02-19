@@ -1,7 +1,7 @@
 {
   "name": "html-panel",
   "version": "0.0.1",
-  "description": "HTML Panel Plugin for Grafana",
+  "description": "HTML Panel for Grafana",
   "main": "src/module.ts",
   "scripts": {
     "build": "grunt",
@@ -10,7 +10,10 @@
     "pretty": "prettier --write src/**/*.ts"
   },
   "keywords": ["grafana", "plugin", "panel", "html", "angular-template"],
-  "author": "ValD",
+  "author": {
+    "name": "Smart Data & Analytics inc.",
+    "url": "https://github.com/smartlytics-com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

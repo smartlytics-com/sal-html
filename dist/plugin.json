@@ -6,7 +6,8 @@
   "info": {
     "description": "HTML panel for Grafana",
     "author": {
-      "name": "ValD"
+      "name": "Smart Data & Analytics inc.",
+      "url": "https://github.com/smartlytics-com"
     },
     "keywords": ["panel", "html", "angular-template"],
     "logos": {
